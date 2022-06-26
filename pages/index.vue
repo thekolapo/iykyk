@@ -215,6 +215,10 @@ $heading-color: #5eb7a4;
     @include screen('med-small') {
       font-size: 36vw;
     }
+
+    @include screen('small') {
+      margin-top: 1.2rem;
+    }
   }
 
   &__subtext {
@@ -247,7 +251,7 @@ $heading-color: #5eb7a4;
 
       @include screen('small') {
         font-size: 9.98vw;
-        padding: 0 2rem 4.8rem;
+        padding: 0 2rem 5.8rem;
       }
     }
   }
