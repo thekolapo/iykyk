@@ -244,6 +244,11 @@ $heading-color: #5eb7a4;
       text-transform: uppercase;
       opacity: 0;
       animation: fade-in 0.9s linear 6.5s forwards;
+
+      @include screen('small') {
+        font-size: 10.3vw;
+        padding: 0 2rem 5rem;
+      }
     }
   }
 }
