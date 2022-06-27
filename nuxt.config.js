@@ -15,7 +15,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { name: 'keywords', content: '' },
+      { name: 'keywords', content: 'iykyk, iykyk studio, if you know you know, if you know you know studio' },
       {
         hid: 'description',
         name: 'description',
@@ -27,7 +27,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: '',
+        content: 'https://iykyk.studio/meta-image.png',
       },
       {
         hid: 'og:description',
@@ -49,7 +49,7 @@ export default {
       {
         hid: 'twitter:image',
         property: 'twitter:image',
-        content: '',
+        content: 'https://iykyk.studio/meta-image.png',
       },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
