@@ -19,7 +19,7 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: '.',
+        content: 'We’re makers who are driven first by creative freedom.',
       },
       { property: 'og:type', content: 'website' },
       { property: 'og:url', content: '' },
@@ -32,7 +32,7 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content: '',
+        content: 'We’re makers who are driven first by creative freedom.',
       },
       { property: 'twitter:card', content: 'summary_large_image' },
       { property: 'twitter:url', content: '' },
@@ -44,7 +44,7 @@ export default {
       {
         hid: 'twitter:description',
         property: 'twitter:description',
-        content: '',
+        content: 'We’re makers who are driven first by creative freedom.',
       },
       {
         hid: 'twitter:image',
